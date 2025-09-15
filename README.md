@@ -11,7 +11,7 @@
 [![Goal: To become a Data Scientist, while also exploring Machine Learning as I grow](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=5000&color=E6E6E6FF&background=94FF3F00&width=900&lines=-+%F0%9F%9A%80+Goal%3A+To+become+a+Data+Scientist%2C+while+also+exploring+Machine+Learning+as+I+grow)](https://github.com/Arya-Zolfaghari)
 
 <a href="https://github.com/Arya-Zolfaghari">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=E6E6E6FF&background=94FF3F00&width=500&lines=-+%F0%9F%94%AD+Interested+in%3A+Earning+certificates%2C+working+on+personal+and+team+projects%2C+applying+skills+to+real-world+datasets%2C+Programming" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=E6E6E6FF&background=94FF3F00&width=1300&lines=-+%F0%9F%94%AD+Interested+in%3A+Earning+certificates%2C+working+on+personal+and+team+projects%2C+applying+skills+to+real-world+datasets%2C+Programming" alt="Typing SVG" />
 </a>
 
 
