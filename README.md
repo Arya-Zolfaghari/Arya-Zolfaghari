@@ -4,6 +4,13 @@
   </a>
 </div>
 
+<p><img align="center" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Arya-Zolfaghari" /></p>
+
+
+
+<!-- <p><img align="center" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Arya-Zolfaghari" /></p> -->
+
+
 <a href="https://github.com/Arya-Zolfaghari"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=5000&color=F7F7F7&random=false&width=800&lines=-+%F0%9F%94%AD+I%E2%80%99m+currently+working+on+%3A+Python+and+Data+Science+And+ML+Projects" alt="Typing SVG" /></a>
 
 <a href="https://github.com/Arya-Zolfaghari"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=5000&color=E6E6E6FF&background=94FF3F00&width=800&lines=-+%F0%9F%93%96+I%E2%80%99m+currently+working+on+Python+for+Data+Science+and+ML" alt="Typing SVG" /></a>
